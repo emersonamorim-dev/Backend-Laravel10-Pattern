@@ -28,7 +28,7 @@ Exemplo de Model Trade em app/Models/Trade.php
 ### 2. Criar Repositórios
 Os repositórios são responsáveis pela lógica de acesso aos dados. Você deve criar uma classe de repositório abstrata que possa ser estendida por repositórios específicos de modelos.
 
-3. Criar Serviços
+### 3. Criar Serviços
 As classes de serviço contêm a lógica de negócios da aplicação. Eles utilizam os repositórios para acessar os dados.
 
 Exemplo de classe de serviço TradeService em app/Services/TradeService.php:
