@@ -1,5 +1,5 @@
-# Implementação do Padrão de Repositório no Laravel
-Este guia explica como implementar o Padrão de Repositório que é Patter em uma aplicação Laravel. O Padrão de Repositório é usado para desacoplar a lógica de negócios da lógica de acesso a dados, tornando o código mais manutenível e testável.
+# Implementação do Padrão de Repositório no Laravel 10
+Este guia explica como implementar o Padrão de Repositório que é Patter em uma aplicação Laravel. O Padrão de Repositório é usado para desacoplar a lógica de negócios da lógica de acesso a dados, tornando o código mais manutenível e testável. Uso de Banco de Dados MYSQL para subir Migrations e a aplcação já está Dockerizada.
 
 - Estrutura de Diretórios
 
